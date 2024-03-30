@@ -9,7 +9,9 @@ ______
 :white_check_mark::two: 
 ### Нарисовать блок-схему алгоритма (можно обойтись блок-схемой основной содержательной части, если вы выделяете её в отдельный метод)
 
+![Скринн блок-схемы](https://github.com/GrafClassiC/final_test/blob/main/scheme.png)
 
+[Ссылка на блок-схему формата .draiwio](https://github.com/GrafClassiC/final_test/blob/main/diagramm.drawio)
 
 :white_check_mark::three: 
 #### Снабдить репозиторий оформленным текстовым описанием решения (файл README.md)
