@@ -11,7 +11,7 @@ ______
 
 ![Скринн блок-схемы](https://github.com/GrafClassiC/final_test/blob/main/PNG/scheme.png)
 
-[Ссылка на блок-схему формата .draiwio](https://github.com/GrafClassiC/final_test/blob/main/diagramm.drawio)
+[Ссылка на блок-схему формата .draiwio](https://github.com/GrafClassiC/final_test/blob/main/PNG/diagramm.drawio)
 
 :white_check_mark::three: 
 
