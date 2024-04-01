@@ -84,11 +84,11 @@ ___Следовательно программа фильтрует введен
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
 
-[x] Первая часть кода в VSC
+__Первая часть кода в VSC__
 ![printscreen VSC1](https://github.com/GrafClassiC/final_test/blob/main/PNG/1project.png)
 
-[x] Вторая часть кода в VSC
+__Вторая часть кода в VSC__
 ![printscreen VSC2](https://github.com/GrafClassiC/final_test/blob/main/PNG/2project.png)
 
-[x] Ввод данных/вывод решения в VSC
+__Ввод данных/вывод решения в VSC__
 ![printscreen VSC3](https://github.com/GrafClassiC/final_test/blob/main/PNG/3project.png)
