@@ -4,12 +4,12 @@ ______
 :white_check_mark::one: 
 ## Создать репозиторий на GitHub 
 
-![подтверждение созданного репа](https://github.com/GrafClassiC/final_test/blob/main/1.png)
+![подтверждение созданного репа](https://github.com/GrafClassiC/final_test/blob/main/PNG/1.png)
 
 :white_check_mark::two: 
 ### Нарисовать блок-схему алгоритма (можно обойтись блок-схемой основной содержательной части, если вы выделяете её в отдельный метод)
 
-![Скринн блок-схемы](https://github.com/GrafClassiC/final_test/blob/main/scheme.png)
+![Скринн блок-схемы](https://github.com/GrafClassiC/final_test/blob/main/PNG/scheme.png)
 
 [Ссылка на блок-схему формата .draiwio](https://github.com/GrafClassiC/final_test/blob/main/diagramm.drawio)
 
@@ -80,10 +80,12 @@ ___Следовательно программа фильтрует введен
 > Задача: Написать программу, которая из имеющегося массива строк формирует новый массив из строк, длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
 Примеры:
-[“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
+[“Hello”, “2”, “world”] → [“2”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
 
-![printscreen VSC1](ссылка)
-![printscreen VSC2](сслыка)
-![printscreen VSC3](ссылка)
+![printscreen VSC1](https://github.com/GrafClassiC/final_test/blob/main/PNG/1project.png)
+
+![printscreen VSC2](https://github.com/GrafClassiC/final_test/blob/main/PNG/2project.png)
+
+![printscreen VSC3]()
