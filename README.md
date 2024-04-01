@@ -88,4 +88,4 @@ ___Следовательно программа фильтрует введен
 
 ![printscreen VSC2](https://github.com/GrafClassiC/final_test/blob/main/PNG/2project.png)
 
-![printscreen VSC3]()
+![printscreen VSC3](https://github.com/GrafClassiC/final_test/blob/main/PNG/3project.png)
