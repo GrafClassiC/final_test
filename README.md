@@ -17,7 +17,7 @@ ______
 
 #### Снабдить репозиторий оформленным текстовым описанием решения (файл README.md)
 ```C#
-uusing System;
+using System;
 class Programm
 {
     static void Main()
